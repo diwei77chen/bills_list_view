@@ -2,6 +2,7 @@
   "bills": [
     {
       "id": 1,
+      "title": "Credit Card Bill",
       "bill_image_url": "https://picsum.photos/200",
       "amount": 100,
       "dollar": "au",
