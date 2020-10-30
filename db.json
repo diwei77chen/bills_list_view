@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "bill_image_url": "https://picsum.photos/200"
-    },
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
