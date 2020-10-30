@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "id": "1",
       "bill_image_url": "https://picsum.photos/200",
@@ -8,5 +7,4 @@
       "issued_date": "2020-10-01",
       "status": "processing",
     }
-  ]
-}
+]
