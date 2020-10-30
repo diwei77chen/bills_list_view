@@ -2,11 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "bill_image_url": "https://picsum.photos/200",
-      "amount": 156,
-      "dollar": "au",
-      "issued_date": "2020-10-01",
-      "status": "processing",
+      "bill_image_url": "https://picsum.photos/200"
     },
   ]
 }
