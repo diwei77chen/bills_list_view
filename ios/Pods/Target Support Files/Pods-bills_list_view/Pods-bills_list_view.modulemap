@@ -1,0 +1,6 @@
+module Pods_bills_list_view {
+  umbrella header "Pods-bills_list_view-umbrella.h"
+
+  export *
+  module * { export * }
+}
