@@ -18,14 +18,21 @@ As a user, I want to see a list of my deferit bills in one place. This includes:
 
 ## Run the project:
 
-### 1. Start a local bundler on the project:
+*Note: This project is tested on iOS only.*
+
+### 1. Install the dependent packages:
+
+  * `npm ci`
+
+### 2. Install pods on ios/:
+
+  * `pod install`
+
+### 3. Start a local bundler on the project:
 
   * `npm start`
 
-### 2. Run the project on a simulator:
+### 4. Run the project on a simulator:
 
   * #### Run on iOS(14.0):       
   `npx react-native run-ios`
-
-  * #### Run on android:         
-  `npx react-native run-android`
