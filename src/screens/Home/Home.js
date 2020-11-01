@@ -65,7 +65,7 @@ class Home extends Component {
   }
 
   render() {
-    const { bills, isLoading, hasError, numberOfBills } = this.state;
+    const { bills, isLoading, numberOfBills } = this.state;
     const { length: totalNumberOfBills } = bills || [];
     const hasMoreBills = checkIfHasMoreBills(numberOfBills, totalNumberOfBills);
     const myBills = bills.slice(0, numberOfBills);
