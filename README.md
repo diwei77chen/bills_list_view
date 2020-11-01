@@ -16,8 +16,16 @@ As a user, I want to see a list of my deferit bills in one place. This includes:
 
 1. An infinite scroll to load next batch of bills if there are any
 
-## How to run the project
+## Run the project:
 
-### Run on iOS(14.0):       npx react-native run-ios
+### 1. Start a local bundler on the project:
 
-### Run on android:         npx react-native run-android
+  * `npm start`
+
+### 2. Run the project on a simulator:
+
+  * #### Run on iOS(14.0):       
+  `npx react-native run-ios`
+
+  * #### Run on android:         
+  `npx react-native run-android`
