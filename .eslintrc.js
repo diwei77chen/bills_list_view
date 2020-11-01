@@ -24,7 +24,7 @@ module.exports = {
         "react",
         "react-native"
     ],
-    "rules": {
+    rules: {
       // 0=ignore, 1=warning, 2=error
       'no-plusplus': 1,
       'no-shadow': 1,
@@ -43,10 +43,6 @@ module.exports = {
       'react/jsx-no-bind': 1,
       'react/jsx-wrap-multilines': 1,
       'react/sort-comp': 0,
-      'import/prefer-default-export': 0,
-      'import/extensions': 1,
-      'import/no-named-as-default': 1,
-      'import/no-named-as-default-member': 1,
       'prettier/prettier': ['error', { singleQuote: true, bracketSpacing: true }],
       'object-curly-spacing': 0
     }
