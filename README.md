@@ -32,7 +32,5 @@ As a user, I want to see a list of my deferit bills in one place. This includes:
 
   * `npm start`
 
-### 4. Run the project on a simulator:
-
-  * #### Run on iOS(14.0):       
-  `npx react-native run-ios`
+### 4. Run on iOS(14.0):  
+  * `npx react-native run-ios`
