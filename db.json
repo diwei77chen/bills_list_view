@@ -6,7 +6,7 @@
       "bill_image_url": "https://picsum.photos/800",
       "amount": 1050.98,
       "dollar": "au",
-      "issued_date": "2020-01-01",
+      "due_date": "2020-01-01",
       "status": "processing"
     },
     {
@@ -15,7 +15,7 @@
       "bill_image_url": "https://picsum.photos/400",
       "amount": 400.55,
       "dollar": "au",
-      "issued_date": "2020-01-02",
+      "due_date": "2020-01-02",
       "status": "scheduled"
     },
     {
@@ -24,7 +24,7 @@
       "bill_image_url": "https://picsum.photos/500",
       "amount": 300.89,
       "dollar": "au",
-      "issued_date": "2020-01-03",
+      "due_date": "2020-01-03",
       "status": "unable to pay"
     },
     {
@@ -33,7 +33,7 @@
       "bill_image_url": "https://picsum.photos/600",
       "amount": 1200,
       "dollar": "au",
-      "issued_date": "2020-01-04",
+      "due_date": "2020-01-04",
       "status": "paid"
     },
     {
@@ -42,7 +42,7 @@
       "bill_image_url": "https://picsum.photos/700",
       "amount": 1200,
       "dollar": "au",
-      "issued_date": "2020-01-05",
+      "due_date": "2020-01-05",
       "status": "paid"
     },
     {
@@ -51,7 +51,7 @@
       "bill_image_url": "https://picsum.photos/550",
       "amount": 100,
       "dollar": "au",
-      "issued_date": "2020-02-01",
+      "due_date": "2020-02-01",
       "status": "scheduled"
     },
     {
@@ -60,7 +60,7 @@
       "bill_image_url": "https://picsum.photos/320",
       "amount": 300,
       "dollar": "au",
-      "issued_date": "2020-02-02",
+      "due_date": "2020-02-02",
       "status": "processing"
     },
     {
@@ -69,7 +69,7 @@
       "bill_image_url": "https://picsum.photos/110",
       "amount": 400,
       "dollar": "au",
-      "issued_date": "2020-02-03",
+      "due_date": "2020-02-03",
       "status": "paid"
     },
     {
@@ -78,7 +78,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 1100,
       "dollar": "au",
-      "issued_date": "2020-02-04",
+      "due_date": "2020-02-04",
       "status": "processing"
     },
     {
@@ -87,7 +87,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 200,
       "dollar": "au",
-      "issued_date": "2020-02-05",
+      "due_date": "2020-02-05",
       "status": "unable to pay"
     },
     {
@@ -96,7 +96,7 @@
       "bill_image_url": "https://picsum.photos/880",
       "amount": 100,
       "dollar": "au",
-      "issued_date": "2020-03-10",
+      "due_date": "2020-03-10",
       "status": "scheduled"
     },
     {
@@ -105,7 +105,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 140.98,
       "dollar": "au",
-      "issued_date": "2020-03-11",
+      "due_date": "2020-03-11",
       "status": "paid"
     },
     {
@@ -114,7 +114,7 @@
       "bill_image_url": "https://picsum.photos/288",
       "amount": 150.23,
       "dollar": "au",
-      "issued_date": "2020-03-12",
+      "due_date": "2020-03-12",
       "status": "processing"
     },
     {
@@ -123,7 +123,7 @@
       "bill_image_url": "https://picsum.photos/300",
       "amount": 100,
       "dollar": "au",
-      "issued_date": "2020-03-13",
+      "due_date": "2020-03-13",
       "status": "scheduled"
     },
     {
@@ -132,7 +132,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 1004,
       "dollar": "au",
-      "issued_date": "2020-03-14",
+      "due_date": "2020-03-14",
       "status": "unable to pay"
     },
     {
@@ -141,7 +141,7 @@
       "bill_image_url": "https://picsum.photos/206",
       "amount": 500,
       "dollar": "au",
-      "issued_date": "2020-04-18",
+      "due_date": "2020-04-18",
       "status": "processing"
     },
     {
@@ -150,7 +150,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 200,
       "dollar": "au",
-      "issued_date": "2020-04-19",
+      "due_date": "2020-04-19",
       "status": "processing"
     },
     {
@@ -159,7 +159,7 @@
       "bill_image_url": "https://picsum.photos/250",
       "amount": 100,
       "dollar": "au",
-      "issued_date": "2020-04-20",
+      "due_date": "2020-04-20",
       "status": "scheduled"
     },
     {
@@ -168,7 +168,7 @@
       "bill_image_url": "https://picsum.photos/800",
       "amount": 120,
       "dollar": "au",
-      "issued_date": "2020-04-21",
+      "due_date": "2020-04-21",
       "status": "processing"
     },
     {
@@ -177,7 +177,7 @@
       "bill_image_url": "https://picsum.photos/800",
       "amount": 120,
       "dollar": "au",
-      "issued_date": "2020-04-21",
+      "due_date": "2020-04-21",
       "status": "scheduled"
     },
     {
@@ -186,7 +186,7 @@
       "bill_image_url": "https://picsum.photos/900",
       "amount": 130,
       "dollar": "au",
-      "issued_date": "2020-05-28",
+      "due_date": "2020-05-28",
       "status": "paid"
     },
     {
@@ -195,7 +195,7 @@
       "bill_image_url": "https://picsum.photos/200",
       "amount": 160,
       "dollar": "au",
-      "issued_date": "2020-06-01",
+      "due_date": "2020-06-01",
       "status": "processing"
     },
     {
@@ -204,7 +204,7 @@
       "bill_image_url": "https://picsum.photos/250",
       "amount": 1200,
       "dollar": "au",
-      "issued_date": "2020-06-02",
+      "due_date": "2020-06-02",
       "status": "unable to pay"
     },
     {
@@ -213,7 +213,7 @@
       "bill_image_url": "https://picsum.photos/500",
       "amount": 100,
       "dollar": "au",
-      "issued_date": "2020-06-03",
+      "due_date": "2020-06-03",
       "status": "processing"
     },
     {
@@ -222,7 +222,7 @@
       "bill_image_url": "https://picsum.photos/100",
       "amount": 1300,
       "dollar": "au",
-      "issued_date": "2020-06-04",
+      "due_date": "2020-06-04",
       "status": "paid"
     }
   ],
