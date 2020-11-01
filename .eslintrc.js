@@ -43,7 +43,6 @@ module.exports = {
       'react/jsx-no-bind': 1,
       'react/jsx-wrap-multilines': 1,
       'react/sort-comp': 0,
-      'prettier/prettier': ['error', { singleQuote: true, bracketSpacing: true }],
       'object-curly-spacing': 0
     }
 };
