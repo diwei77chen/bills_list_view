@@ -77,7 +77,7 @@ class Home extends Component {
           keyExtractor={this.getItemKey}
           extraData={numberOfBills}
           onEndReached={this.onListEndReached}
-          onEndReachedThreshold={0.1}
+          onEndReachedThreshold={0.2}
           ListFooterComponent={<ListFooterSpinner shouldShowSpinner={hasMoreBills} />}
           refreshControl={
             <RefreshControl
